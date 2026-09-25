@@ -65,6 +65,7 @@ The database contains employee records that can be created, viewed, updated, and
 JDBC is used to establish the connection between the Java application and the MySQL database.
 
 ⚙️ Key Concepts Demonstrated
+
 Object-Oriented Programming
 Java Classes and Objects
 Encapsulation
@@ -74,23 +75,36 @@ SQL Queries
 CRUD Operations
 MySQL Database Management
 Java-Database Integration
+
 🚀 How to Run
 Prerequisites
 
 Make sure you have installed:
 
 Java JDK
+
 MySQL
+
 Git
+
 A Java-compatible IDE or VS Code
+
 Clone the Repository
+
 git clone https://github.com/Prasannapatnala/Employee-Management-System.git
+
 cd Employee-Management-System
+
 Database Setup
+
 Open MySQL.
+
 Create the required database.
+
 Create the employee table according to the project configuration.
+
 Update the database connection details in the Java source code.
+
 Run the Application
 
 Compile and run the Java application from your IDE or terminal.
